@@ -1,6 +1,6 @@
-## Your Name
+## Lucy Stringer
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm a highly numerate, optimistic problem-solver. Following a career in accountancy I was looking for a new challenge, and decided to retrain as a software developer at Makers Academy. I love the intellectual challenges of tech, and am enjoying the emphasis on continuous learning.
 
 ## Projects
 
@@ -11,15 +11,51 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Arram Berlyn Gardner** (August 2018 to August 2020)  
+_Personal Tax Senior_
 
-- Any experience relevent to software development
+- Responsible for a portfolio of personal tax clients; including high net worth, non-domiciled & non-resident individuals, partnerships and trusts
+- Configured workflow system for our accountancy software, and rolled out across the personal tax team
+- Researched use of a portal system, and gave demo of the system to the Partners
+- Created centralised folder for all team knowledge, and prepared process notes where missing
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Riches & Company** (May 2014 - July 2018)  
+_Personal Tax / Payroll_
 
-- Any experience relevent to software development
+- Responsible for a small portfolio of personal tax clients
+- Payroll administrator for all of the payrolls prepared by the firm
+- Trialled and rolled out online payslips for clients, resulting in cost & time saving
+- Project-managed set-up of portal system to ensure that payroll communications would be GDPR compliant
+
+**Circle Housing (now part of Clarion)** (May 2010 - February 2014)  
+_Service Charge Manager_
+
+- Managed service charges for c.8,000 properties across North and East London, with two direct reports
+- Modelled unrecovered services onto existing service charge structure, to track costs in preparation for future recovery
+- Took year-long sabbatical to retrain as an accountant
+
+**Mole Valley Housing Association (now part of Clarion)** (October 2007 - April 2010)  
+_Performance Officer_
+
+- Managed service charges for c.3,500 properties across North East Surrey
+- Set up service charge module on new software, allowing for full recovery across all services
+
+**Mole Valley District Council** (August 2004 - October 2007)  
+_Housing Operations Performance Officer_
+
+- Managed service charges for c.3,500 properties across North East Surrey
+- Set up service charge module on new software, allowing for full recovery across all services
+
+**Mole Valley District Council** (June 2002 - August 2004)  
+_Support Services Officer (Rents)_
+
+- Responsible for rent finance administration and allocation of garages.
+- Streamlined reconciliations process, resulting in cost-savings in staff time.
+
+**Mole Valley District Council** (September 2000 - June 2002)  
+_Support Services Officer_
+
+- Responsible for the logging and coding of invoices for payment, and reception duties including providing basic rent and repairs information.
 
 ## Skills
 
@@ -42,23 +78,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2020 to February 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Professional qualification (March 2013 - July 2017)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- ACA part-qualified - all modules completed, with all first-time passes bar one.
 
-#### Any other qualifications
+#### University of Leicester (September 1997 - July 2000)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BSc Mathematics (Hons)
+
+#### Rosebery School (September 1991 - July 1997)
+
+A levels: Mathematics (B), French (C), General Studies (C), Economics (E)
+Nine GCSEs: 1A\*, 2As, 4Bs and 2Cs (including Maths A\*, English B)
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- **Cycling**
+- **Swimming**
+- **Piano**
+- **Gardening**
