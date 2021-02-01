@@ -1,13 +1,13 @@
 ## Lucy Stringer
 
-I'm a highly numerate, optimistic problem-solver. Following a career in accountancy I was looking for a new challenge, and decided to retrain as a software developer at Makers Academy. I love the intellectual challenges of tech, and am enjoying the emphasis on continuous learning.
+I am a full stack Ruby developer. Following a career in accountancy I was looking for a new challenge, and decided to retrain as a software developer at Makers Academy. I'm a highly numerate, optimistic problem-solver and love the intellectual challenges of tech.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **[Petential](https://github.com/horthbynorthwest/petential)**            | A webapp to track your pet's needs. | React, Django |
+| **[zuckerBook](https://github.com/stringiest/zuckerBook)** | A webapp clone of Facebook | Ruby on Rails              |
 
 ## Experience
 
@@ -59,31 +59,29 @@ _Support Services Officer_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Problem Solving & Analytical Reasoning
 
-#### This Skill
+I have always enjoyed solving problems, both in a personal and professional setting.  In my role as Personal Tax Senior I looked for many ways to improve aspects of the job.
 
-- Experience
-- Achievements
-- Evidence
+- Configured and introduced a workflow system for the Personal Tax Team, to replace the shared spreadsheet which had previously been used and save time
+- Researched a portal system for use by the team, demonstrated it to senior management and tested it with a sample of clients. This would replace the previous system of password-protecting each document before emailing, improving security and company image.
 
-#### Another Skill
+#### Data Design
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+In my previous roles I have often been the 'go to' person for creating reports, having understood instinctively how the various tables fit together.  At Makers I have enjoyed being able to develop this skill, by designing the databases myself.  
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Designed the database structure for our Airbnb clone, Makers BNB, in week 5 of Makers
+- I built a gift list app using Ruby on Rails and PostgreSQL
 
 ## Education
 
-#### Makers Academy (October 2020 to February 2021)
+#### Makers Academy (October 2020 to January 2021)
 
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, JavaScript, Python
+- Ruby on Rails, React, Django
 - RSpec, Jasmine
+- PostgreSQL
 
 #### Professional qualification (March 2013 - July 2017)
 
