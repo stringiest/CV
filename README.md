@@ -9,6 +9,45 @@ I am a full stack Ruby developer. Following a career in accountancy I was lookin
 | **[Petential](https://github.com/horthbynorthwest/petential)**            | A webapp to track your pet's needs. | React, Django |
 | **[zuckerBook](https://github.com/stringiest/zuckerBook)** | A webapp clone of Facebook | Ruby on Rails              |
 
+## Skills
+
+#### Problem Solving & Analytical Reasoning
+
+I have always enjoyed solving problems, both in a personal and professional setting.  In my role as Personal Tax Senior I looked for many ways to improve aspects of the job.
+
+- Configured and introduced a workflow system for the Personal Tax Team, to replace the shared spreadsheet which had previously been used and save time
+- Researched a portal system for use by the team, demonstrated it to senior management and tested it with a sample of clients. This would replace the previous system of password-protecting each document before emailing, improving security and company image.
+
+#### Data Design
+
+In my previous roles I have often been the 'go to' person for creating reports, having understood instinctively how the various tables fit together.  At Makers I have enjoyed being able to develop this skill, by designing the databases myself.  
+
+- Designed the database structure for our Airbnb clone, Makers BNB, in week 5 of Makers
+- I built a gift list app using Ruby on Rails and PostgreSQL
+
+## Education
+
+#### Makers Academy (October 2020 to January 2021)
+
+- OOP, TDD, MVC, DDD
+- Ruby, JavaScript, Python
+- Ruby on Rails, React, Django
+- RSpec, Jasmine
+- PostgreSQL
+
+#### Professional qualification (March 2013 - July 2017)
+
+- ACA part-qualified - all modules completed, with all first-time passes bar one.
+
+#### University of Leicester (September 1997 - July 2000)
+
+- BSc Mathematics (Hons)
+
+#### Rosebery School (September 1991 - July 1997)
+
+A levels: Mathematics (B), French (C), General Studies (C), Economics (E)
+Nine GCSEs: 1A\*, 2As, 4Bs and 2Cs (including Maths A\*, English B)
+
 ## Experience
 
 **Arram Berlyn Gardner** (August 2018 to August 2020)  
@@ -56,45 +95,6 @@ _Support Services Officer (Rents)_
 _Support Services Officer_
 
 - Responsible for the logging and coding of invoices for payment, and reception duties including providing basic rent and repairs information.
-
-## Skills
-
-#### Problem Solving & Analytical Reasoning
-
-I have always enjoyed solving problems, both in a personal and professional setting.  In my role as Personal Tax Senior I looked for many ways to improve aspects of the job.
-
-- Configured and introduced a workflow system for the Personal Tax Team, to replace the shared spreadsheet which had previously been used and save time
-- Researched a portal system for use by the team, demonstrated it to senior management and tested it with a sample of clients. This would replace the previous system of password-protecting each document before emailing, improving security and company image.
-
-#### Data Design
-
-In my previous roles I have often been the 'go to' person for creating reports, having understood instinctively how the various tables fit together.  At Makers I have enjoyed being able to develop this skill, by designing the databases myself.  
-
-- Designed the database structure for our Airbnb clone, Makers BNB, in week 5 of Makers
-- I built a gift list app using Ruby on Rails and PostgreSQL
-
-## Education
-
-#### Makers Academy (October 2020 to January 2021)
-
-- OOP, TDD, MVC, DDD
-- Ruby, JavaScript, Python
-- Ruby on Rails, React, Django
-- RSpec, Jasmine
-- PostgreSQL
-
-#### Professional qualification (March 2013 - July 2017)
-
-- ACA part-qualified - all modules completed, with all first-time passes bar one.
-
-#### University of Leicester (September 1997 - July 2000)
-
-- BSc Mathematics (Hons)
-
-#### Rosebery School (September 1991 - July 1997)
-
-A levels: Mathematics (B), French (C), General Studies (C), Economics (E)
-Nine GCSEs: 1A\*, 2As, 4Bs and 2Cs (including Maths A\*, English B)
 
 ## Hobbies
 
