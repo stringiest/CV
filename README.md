@@ -1,4 +1,11 @@
-## Lucy Stringer
+<div align="center">
+  <h1>Lucy Stringer</h1>
+
+  **A full-stack software developer with a strong background in stream-lining processes and a love of new challenges**<br>
+  [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/lucy-stringer-81aa0392/)
+  <br>
+</div>
+
 
 I am a full stack Ruby developer. Following a career in accountancy I was looking for a new challenge, and decided to retrain as a software developer at Makers Academy. I'm a highly numerate, optimistic problem-solver and love the intellectual challenges of tech.
 
@@ -96,7 +103,7 @@ _Support Services Officer_
 
 - Responsible for the logging and coding of invoices for payment, and reception duties including providing basic rent and repairs information.
 
-## Hobbies
+## Interests
 
 - **Cycling**
 - **Swimming**
