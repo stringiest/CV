@@ -6,8 +6,7 @@
   <br>
 </div>
 
-
-I am a full stack Ruby developer. Following a career in accountancy I was looking for a new challenge, and decided to retrain as a software developer at Makers Academy. I'm a highly numerate, optimistic problem-solver and love the intellectual challenges of tech.
+I am a Maker, recovering accountant, and full-stack developer. I have spent much of my career championing technical solutions to improve processes, whether in accountancy or social housing. I am now embarking on a new challenge as a software developer, where I can use my experience to build technical solutions myself.
 
 ## Projects
 
@@ -15,6 +14,7 @@ I am a full stack Ruby developer. Following a career in accountancy I was lookin
 | ---------------------------- | ----------------- | ----------------- |
 | **[Petential](https://github.com/horthbynorthwest/petential)**            | A webapp to track your pet's needs. | React, Django |
 | **[zuckerBook](https://github.com/stringiest/zuckerBook)** | A webapp clone of Facebook | Ruby on Rails              |
+|**[All I Want For](https://github.com/stringiest/all_i_want_for)**| A website to create and share gift lists| Ruby on Rails |
 
 ## Skills
 
