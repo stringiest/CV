@@ -12,7 +12,7 @@ I am a Maker, recovering accountant, and full-stack developer. I have spent much
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Petential](https://github.com/horthbynorthwest/petential)**            | A webapp to track your pet's needs. | React, Django |
+| **[Petential](https://github.com/stringiest/petential_extension)**            | A webapp to track your pet's needs. | React, Django |
 | **[zuckerBook](https://github.com/stringiest/zuckerBook)** | A webapp clone of Facebook | Ruby on Rails              |
 |**[All I Want For](https://github.com/stringiest/all_i_want_for)**| A website to create and share gift lists| Ruby on Rails |
 
