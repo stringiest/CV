@@ -52,7 +52,7 @@ In my previous roles I have often been the 'go to' person for creating reports, 
 
 #### Rosebery School (September 1991 - July 1997)
 
-A levels: Mathematics (B), French (C), General Studies (C), Economics (E)
+A levels: Mathematics (B), French (C), General Studies (C), Economics (E)  
 Nine GCSEs: 1A\*, 2As, 4Bs and 2Cs (including Maths A\*, English B)
 
 ## Experience
