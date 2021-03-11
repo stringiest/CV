@@ -30,7 +30,7 @@ I have always enjoyed solving problems, both in a personal and professional sett
 In my previous roles I have often been the 'go to' person for creating reports, having understood instinctively how the various tables fit together.  At Makers I have enjoyed being able to develop this skill, by designing the databases myself.  
 
 - Designed the database structure for our Airbnb clone, [Makers BNB](https://github.com/samanthagottlieb/makersbnb), in week 5 of Makers
-- I built a gift list app using Ruby on Rails and PostgreSQL
+- Built a gift list app using Ruby on Rails and PostgreSQL
 
 ## Education
 
