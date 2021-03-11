@@ -65,12 +65,17 @@ Responsible for a portfolio of personal tax clients; including high net worth, n
 - Researched use of a portal system, and gave demo of the system to the Partners
 - Created centralised folder for all team knowledge, and prepared process notes where missing
 
-**Riches & Company** (May 2014 - July 2018)  
+**Riches & Company** (May 2016 - July 2018)  
 _Personal Tax / Payroll_
 
 Responsible for a small portfolio of personal tax clients & payroll administration for all of the payrolls prepared by the firm
 - Trialled and rolled out online payslips for clients, resulting in cost & time saving
 - Project-managed set-up of portal system to ensure that payroll communications would be GDPR compliant
+
+**Riches & Company** (May 2014 - May 2016)  
+_Trainee Accountant_
+
+Responsible for preparation of accounts for sole traders, partnerships and small limited companies. Assisted on audits for larger companies.
 
 **Circle Housing (now part of Clarion)** (May 2010 - February 2014)  
 _Service Charge Manager_
@@ -104,7 +109,8 @@ Responsible for the logging and coding of invoices for payment, and reception du
 
 ## Interests
 
-- **Cycling**
-- **Swimming**
-- **Piano**
-- **Gardening**
+I've always loved **cycling**. I love the freedom and independence it brings. I've commuted to work by bike for many years at a time, and planned & enjoyed long distance cycling holidays with friends, including cycling from London to Paris and from Lands End to John O'Groats.
+
+I also love **swimming**, and have been on swimming holidays, circumnavigating the Scilly Isles and island-hopping in Croatia, as well as swimming in the pool. I'm looking forward to swimming at the local lido once the pools reopen!
+
+I also play the **piano**, and enjoy **gardening**.
