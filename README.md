@@ -113,4 +113,4 @@ I've always loved **cycling**. I love the freedom and independence it brings. I'
 
 I also love **swimming**, and have been on swimming holidays, circumnavigating the Scilly Isles and island-hopping in Croatia, as well as swimming in the pool. I'm looking forward to swimming at the local lido once the pools reopen!
 
-I also play the **piano**, and enjoy **gardening**.
+I also play the **piano** (Grade 8), and enjoy **gardening**.
